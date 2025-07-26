@@ -34,7 +34,7 @@ This project demonstrates a robust implementation of the RAG architecture, combi
 
 Clone the repository:
 ```bash
-git clone https://github.com/prajesharini/RAG-based-Chatbot.git
+git clone https://github.com/Shruthi-S-098/RAG-based-Chatbot.git
 cd RAG-based-Chatbot
 
 pip install -r requirements.txt
